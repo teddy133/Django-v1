@@ -1,2 +1,2 @@
 # Django-v1
-Incomplete Django example
+Incomplete Django1 example
